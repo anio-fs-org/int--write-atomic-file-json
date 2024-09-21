@@ -1,4 +1,4 @@
-import {generateFromTemplate} from "vipen/autogenerate"
+import {generateFromTemplate} from "fourtune/autogenerate"
 
 const asyncToSync = {
 	"import {writeAtomicFile} from \"@anio-fs/int--write-atomic-file\"": "import {writeAtomicFileSync} from \"@anio-fs/int--write-atomic-file\"",
