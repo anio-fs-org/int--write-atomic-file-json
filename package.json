@@ -11,7 +11,7 @@
     "url": "git+https://github.com/anio-fs-org/int--write-atomic-file-json.git"
   },
   "devDependencies": {
-    "@anio-fs/int--write-atomic-file": "3.0.1",
+    "@anio-fs/int--write-atomic-file": "^4.0.0",
     "@fourtune/realm-js": "^0.1.0",
     "fourtune": "^0.0.1"
   },
